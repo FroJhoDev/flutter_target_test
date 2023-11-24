@@ -11,7 +11,7 @@ Projeto criado como teste para vaga de Desenvolvedor Mobile Flutter, para a empr
 
 ## 📃 Sobre
 
-O projeto consiste em uma aplicação onde o usuário pode acessar usando nome de usuário e senha (que são validos usando a API [Dummy JSON](https://dummyjson.com/users)), caso as informações estiverem corretas, ele redirecionado para a tela inicial. Na tela inicial um card e apresentado e mostra uma lista de registros, que podem ser adicionados através de um campo de input na parte inferior. A lista e salva em local storage e fica persistido mesmo com a aplicação seja fechada.
+O projeto consiste em uma aplicação onde o usuário pode acessar usando nome de usuário e senha (que são validos usando a API [Dummy JSON](https://dummyjson.com/users)), caso as informações estiverem corretas, ele é redirecionado para a tela inicial. Na tela inicial um card é apresentado e mostra uma lista de registros, que podem ser adicionados através de um campo de input na parte inferior. A lista é salva em local storage e fica persistido mesmo que a aplicação seja fechada.
 
 ### Recursos Presentes
 * Login
@@ -24,8 +24,8 @@ O projeto consiste em uma aplicação onde o usuário pode acessar usando nome d
 ### Screenshots
 
 <p align="middle">
-<img src="https://github.com/jonathan1313/houseasy-teste-frontend/blob/main/assets/screenshots/randomovie_screenshot02.jpeg" width="40%">
-<img src="https://github.com/jonathan1313/houseasy-teste-frontend/blob/main/assets/screenshots/randomovie_screenshot01.jpeg" width="40%">
+<img src="https://github.com/FroJhoDev/flutter_target_test/blob/main/assets/images/target_01.png" width="40%">
+<img src="https://github.com/FroJhoDev/flutter_target_test/blob/main/assets/images/target_02.png" width="40%">
 </p>
 
 ## 🚀 Configurando para Utilizar
