@@ -11,8 +11,17 @@ Projeto criado como teste para vaga de Desenvolvedor Mobile Flutter, para a empr
 
 ## 📃 Sobre
 
-O projeto consiste em uma aplicação onde o usuário pode acessar usando nome de usuário e senha (que são validos usando a API [Dummy JSON](https://dummyjson.com/users)), caso as informações estiverem corretas, ele é redirecionado para a tela inicial. Na tela inicial um card é apresentado e mostra uma lista de registros, que podem ser adicionados através de um campo de input na parte inferior. A lista é salva em local storage e fica persistido mesmo que a aplicação seja fechada.
+O projeto consiste em uma aplicação onde o usuário pode acessar usando nome de usuário e senha (que são validados usando a API [Dummy JSON](https://dummyjson.com/users)), caso as informações estiverem corretas, ele é redirecionado para a tela inicial. Na tela inicial um card é apresentado e mostra uma lista de registros, que podem ser adicionados através de um campo de input na parte inferior. A lista é salva em local storage e fica persistido mesmo que a aplicação seja fechada.
 
+### Usuários e Senhas para Testes
+- atuny0
+- 9uQFF1Lh
+---
+- hbingley1
+- CQutx25i8r
+---
+- rshawe2
+- OWsTbMUgFc
 ### Recursos Presentes
 * Login
 * Listagem de Registros
